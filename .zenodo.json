@@ -1,0 +1,21 @@
+{
+  "title": "seismic-vibration-tmd-sim: Numerical Simulation of Structural Dynamics and Tuned Mass Dampers Under Seismic Excitation",
+  "upload_type": "software",
+  "description": "Scientific engineering simulator for structural dynamics in single and multi-degree-of-freedom (SDOF / 2DOF) systems equipped with Tuned Mass Dampers (TMD). Computes dynamic amplification, resonance suppression, and transient time-history responses under seismic acceleration records.",
+  "creators": [
+    {
+      "name": "Pepe Sánchez, Roberto Andrés",
+      "affiliation": "Universidad Técnica de Ambato"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "structural-dynamics",
+    "tuned-mass-damper",
+    "earthquake-engineering",
+    "vibration-control",
+    "numerical-simulation",
+    "python"
+  ]
+}

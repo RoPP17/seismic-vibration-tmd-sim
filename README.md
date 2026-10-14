@@ -1,4 +1,4 @@
-# 🏢 SeismicDynamics — Simulador de Dinámica Sísmica Estructural (SDOF & 2DOF + TMD)
+﻿# 🏢 SeismicDynamics — Simulador de Dinámica Sísmica Estructural (SDOF & 2DOF + TMD)
 
 [![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/GUI-PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/)
@@ -83,3 +83,23 @@ El repositorio incluye en [`docs/`](docs/) el informe oficial de investigación:
 ## 📜 Licencia
 
 Distribuido bajo la Licencia [MIT](LICENSE).
+
+---
+
+## 📚 Citación Académica (Citation)
+
+Si utilizas este software o código en investigaciones, docencia o proyectos de ingeniería, por favor cítalo como:
+
+``bibtex
+@software{pepe_sanchez_2026_seismic_tmd,
+  author       = {Pepe Sánchez, Roberto Andrés},
+  title        = {seismic-vibration-tmd-sim: Numerical Simulation of Structural Dynamics and Tuned Mass Dampers Under Seismic Excitation},
+  month        = oct,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  url          = {https://github.com/RoPP17/seismic-vibration-tmd-sim}
+}
+``
+
+También puedes citarlo automáticamente usando el botón **"Cite this repository"** en la barra lateral de GitHub o leyendo directamente el archivo [CITATION.cff](./CITATION.cff).
